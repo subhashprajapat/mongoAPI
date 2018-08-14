@@ -1,0 +1,11 @@
+{
+  "dbConfig": {
+    "url": "mongodb://localhost:27017/testcrud",
+    "name": "mongotest",
+    "port":"27017",
+    "host":"",
+    "username":"",
+    "password":""
+  }
+  
+}
